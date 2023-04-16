@@ -1,0 +1,6 @@
+1- Intro.
+2- Create animator. Create states. Create transitions. Conditions. Loop time.
+3- Exit time, blend time.
+4- Substates.
+5- Blend trees.
+6- Layers.
